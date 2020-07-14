@@ -1,4 +1,4 @@
 # Write your solution here
-#time = Time.now
+time = Time.now.to_i
 
-puts Time.now.sec
+puts time
